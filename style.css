@@ -1,8 +1,9 @@
-/*Background of 1st Page*/
-.pg1h {
-    background-color: red;
+/*Homapage*/
+/*Heading*/
+h1 {
+    font-size: 30px;
 }
-/*Body mostly from Bootstrap*/
+/*Body from Bootstrap*/
 .pg1b {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -11,26 +12,5 @@
     line-height: 1.5;
     color: #212529;
     text-align: center;
-    background-color: green;
-}
-/*Button Position & Size*/
-.b-a,.b-r,.tra,.wea {
-    border: none;
-    padding: 20px 100px; 
-    display: inline-block;
-    text-align: center;
-    text-decoration: none;
-    font-size: 13px; 
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    background-color: transparent; 
-    border: 3px solid black; 
-    border-radius: 80px;
-    font-family: 'Encode Sans', sans-serif;
-}
-/*Button Animation*/
-  .b-a:hover,.b-r:hover,.tra:hover,.wea:hover {
-    background-color:red;
-    color: black;
+    background-color: lightgreen;
 }
