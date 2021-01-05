@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Bus Stop Code Arrival Timings</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+	<form id="frm-query">
+		<label for="txt-busstop-code">Bus Stop Code</label>
+      <input type="text" id="txt-busstop-code"><br/>
+      <small>Insert in sample bus stop code number. (eg. 83139) </small><br/>
+      <input type="submit"> 
+    </form>
+    
+    <section id="bus-dashboard">
+    <h2>Bus Stop: <span id="usr-busstop-code">N.A</span></h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Bus No.</th>
+          <th>Next Bus</th>
+          <th>Next Next Bus</th>
+          <th>Next Next Next Bus (Duh)</th>
+          
+        </tr>
+      </thead>
+      <!-- dynamic data goes here -->
+      <tbody id="bus-arrivals"></tbody>
+
+    </table>
+    </section>
+    <section id="loading">
+      Loading.... 
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="script.js"></script>
+  </body>
+</html>

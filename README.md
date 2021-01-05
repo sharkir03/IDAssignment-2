@@ -1,15 +1,16 @@
 # Bus Timing App (SGOutside)
 
-This is a portfolio made for a fictional anime character - Hinata Shouyou. His particulars and personality were adjusted to fit into the proposed project idea for Assignment 1.
+This is a bus timing desktop/mobile web application made for the general use of the public.
+- [GitHub URL]()
 ## Design Process
 
-Website is made for a fictional character Hinata Shouyou.
+Website is made for general public.
 Wireframe Link:
 - [Adobe XD Share URL](https://xd.adobe.com/view/0db824d2-6211-46e1-b163-0dd5f1206b8e-58eb/)
 
 ## Features
 
-- Introduction - Personal Particulars of Hinata
+- Homepage - Select which feature to use
 - Education & Work - Educations History and Work Experience of Hinata
 - Personal Works - Personal projects done by Hinata
 - More contact options

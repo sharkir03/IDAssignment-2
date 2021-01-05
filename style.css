@@ -1,4 +1,8 @@
 /*Homapage*/
+/*Background of 1st Page*/
+.pg1h {
+    background-color: rgb(255, 80, 80);
+}
 /*Heading*/
 h1 {
     font-size: 30px;
@@ -13,4 +17,26 @@ h1 {
     color: #212529;
     text-align: center;
     background-color: lightgreen;
+}
+/*Button Position & Size*/
+.b-a,.tra,.wea {
+    border: none;
+    padding: 15px 30px; 
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px; 
+    margin: 15px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: transparent; 
+    border: 3px solid black; 
+    border-radius: 80px;
+    font-family: 'Encode Sans', sans-serif;
+    align-items: center;
+}
+/*Button Animation*/
+  .b-a:hover,.b-r:hover,.tra:hover,.wea:hover {
+    background-color: rgb(255, 80, 80);
+    color: black;
 }
