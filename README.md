@@ -11,17 +11,15 @@ Wireframe Link:
 ## Features
 
 - Homepage - Select which feature to use
-- Education & Work - Educations History and Work Experience of Hinata
-- Personal Works - Personal projects done by Hinata
-- More contact options
- 
+- Bus Arrival Timings - Check arrival of buses of the specified bus stop
+- Weather Check - Check current weather and temperature in real time
 ### Existing Features
-- Introduction - Personal Particulars of Hinata
-- Education & Work - Educations History and Work Experience of Hinata
-- Personal Works - Personal projects done by Hinata
+- Homepage - Select which feature to use
+- Bus Arrival Timings - Check arrival of buses of the specified bus stop
+- Weather Check - Check current weather and temperature in real time
 ### Features Left to Implement
-- More contact options
-
+- Contact Options
+- Universal Navigation Bar
 ## Technologies Used
 
 - [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css)
@@ -30,6 +28,10 @@ Wireframe Link:
     - The project uses **Google Fonts** to create fonts for the header, buttons, and footer.
 - [Adobe Fonts](https://use.typekit.net/xdd7oep.css)
     - The project uses **Adobe Fonts** to create font for the body.
+- HTML5
+- CSS
+- JAVASCRIPT
+- JQUERY
 
 ## Testing
 1. Website Navigation:

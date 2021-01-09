@@ -50,18 +50,12 @@
           <td>${services[i].ServiceNo}</td>        
           <td>
           <div>Arrival Time: ${services[i].NextBus.EstimatedArrival}</div>
-          <div>Lat: ${services[i].NextBus.Latitude} </div>
-          <div>Lng: ${services[i].NextBus.Longitude} </div>
           </td>
            <td>
           <div>Arrival Time: ${services[i].NextBus2.EstimatedArrival}</div>
-          <div>Lat: ${services[i].NextBus2.Latitude}</div>
-          <div>Lng: ${services[i].NextBus2.Longitude}</div>
           </td>
            <td>
           <div>Arrival Time: ${services[i].NextBus3.EstimatedArrival}</div>
-          <div>Lat: ${services[i].NextBus3.Latitude} </div>
-          <div>Lng: ${services[i].NextBus3.Longitude} </div>
           </td></tr>`;
         }
         
