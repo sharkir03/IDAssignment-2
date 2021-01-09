@@ -1,4 +1,4 @@
-/*Homapage*/
+/*HOMEPAGE*/
 /*Background of 1st Page*/
 .pg1h {
     background-color: rgb(255, 80, 80);
@@ -15,7 +15,10 @@ h1 {
     font-weight: 400;
     line-height: 1.5;
     color: #212529;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*text-align: center;*/
     background-color: lightgreen;
 }
 /*Button Position & Size*/
@@ -39,4 +42,39 @@ h1 {
   .b-a:hover,.b-r:hover,.tra:hover,.wea:hover {
     background-color: rgb(255, 80, 80);
     color: black;
+}
+/*END HOMEPAGE*/
+/*WEATHER PAGE*/
+.pg3b {
+    font-family: "Nunito",sans-serif;
+    background-color:lightgreen;
+}
+
+.input{
+    text-align: center;
+    margin: 100px 0;
+}
+
+.title {
+    display: flex;
+    background-color: rgb(255, 80, 80);
+    font-family: "Nunito",sans-serif;
+    padding: 20px 20px;
+    justify-content: center;
+}
+
+input[type="submit"]{
+    height: 50px;
+    width: 600px;
+    background:rgb(255, 80, 80);
+    font-family: "Nunito",sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+}
+
+.display {
+    text-align: center;
+    font-size: 50px;
 }
