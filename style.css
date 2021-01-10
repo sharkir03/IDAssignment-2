@@ -7,10 +7,11 @@
 .pg1ti {
     font-size: 50px;
     background-color: rgb(255, 80, 80);
+    padding: 50px;
+    font-family: 'Montserrat', sans-serif;
 }
-/*Body from Bootstrap*/
+/*Body*/
 .pg1b {
-    font-family: "Nunito", sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -32,7 +33,7 @@
     background-color: transparent; 
     border: 5px solid black; 
     border-radius: 80px;
-    font-family: 'Encode Sans', sans-serif;
+    font-family: 'Catamaran', sans-serif;
     align-items: center;
 }
 /*Button Animation*/
@@ -46,19 +47,36 @@
 .pg2h {
     background-color: rgb(255, 80, 80);
 }
-.pg2b {
+.pg2b{
     text-align: center;
     background-color: lightgreen;
+    padding-top: 50px;
+    font-family: 'Catamaran', sans-serif;
 }
 table {
     font-size: 20px;
+    font-family: 'Catamaran', sans-serif;
+}
+.submit {
+    border: none;
+    padding: 5px 20px; 
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 15px 2px;
+    cursor: pointer;
+    background-color: rgb(255, 80, 80); 
+    border: 3px solid black; 
+    border-radius: 80px;
+    font-family: 'Catamaran', sans-serif;
+    align-items: center;
 }
 /*END BUS TIMING PAGE*/
 
 /*WEATHER PAGE*/
 .pg3b {
-    font-family: "Nunito",sans-serif;
     background-color:lightgreen;
+    font-family: 'Catamaran', sans-serif;
 }
 
 .input{
@@ -69,16 +87,17 @@ table {
 .title {
     display: flex;
     background-color: rgb(255, 80, 80);
-    font-family: "Nunito",sans-serif;
-    padding: 20px 20px;
+    padding: 50px 20px;
+    padding-bottom: 30px;
     justify-content: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .load {
     height: 50px;
-    width: 600px;
+    width: 80px;
     background:rgb(255, 80, 80);
-    font-family: "Nunito",sans-serif;
+    
     font-weight: bold;
     font-size: 20px;
     border: none;
@@ -87,9 +106,41 @@ table {
 
 .display {
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
 }
 /*END WEATHER PAGE*/
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'Catamaran', sans-serif;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: lightgreen;
+    color: black;
+  }
 .footer {
     position: fixed;
     left: 0;
@@ -98,4 +149,15 @@ table {
     background-color: lightgreen;
     color: black;
     text-align: center;
+    padding: 20px;
+ }
+ .grfooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 80, 80);
+    color: black;
+    text-align: center;
+    padding: 20px;
  }

@@ -5,14 +5,23 @@
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="normalize.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@500&display=swap" rel="stylesheet">
         <title>Bus & Weather App</title>
     </head>
     <body class="pg1b">
+        <ul class="navbar">
+            <li><a class="active" onclick="document.location='index.html'">Homepage</a></li>
+            <li><a onclick="document.location='bustimings.html'">Bus Arrival</a></li>
+            <li><a onclick="document.location='weather.html'">Weather</a></li>
+        </ul>
         <h1 class="pg1ti">SGOutside</h1>
         <button class="b-a" onclick="document.location='bustimings.html'">Bus Arrival</button><br>
         <button class="wea" onclick="document.location='weather.html'">Weather</button><br>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="script.js"></script>
-        <nav class="footer">Contact: syakir0305@gmail.com</nav>
+        <footer class="footer">Contact: syakir0305@gmail.com</footer>
     </body>
 </html>

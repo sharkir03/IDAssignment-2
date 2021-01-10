@@ -6,15 +6,21 @@
 	<title>Bus Stop Code Arrival Timings</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="normalize.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@500&display=swap" rel="stylesheet">
 </head>
 
 <body class="pg2b">
-
+  <ul class="navbar">
+    <li><a class="active" onclick="document.location='index.html'">Homepage</a></li>
+    <li><a onclick="document.location='bustimings.html'">Bus Arrival</a></li>
+    <li><a onclick="document.location='weather.html'">Weather</a></li>
+  </ul>
 	<form id="frm-query">
 		<label for="txt-busstop-code">Bus Stop Code</label>
       <input type="text" id="txt-busstop-code"><br/>
       <small>Insert in bus stop code number. (eg. 83139) </small><br/>
-      <input type="submit"> 
+      <input type="submit" class="submit"> 
     </form>
     
     <section id="bus-dashboard">
@@ -37,6 +43,7 @@
     <section id="loading">
       <h4>Loading....</h4>
     </section>
+    <footer class="footer">Contact: syakir0305@gmail.com</footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="script.js"></script>
   </body>
