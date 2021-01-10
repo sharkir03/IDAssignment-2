@@ -32,14 +32,16 @@ Wireframe Link:
 - CSS
 - JAVASCRIPT
 - JQUERY
+- BUS ARRIVAL DATAMALL API
+- OPENWEATHERMAP API
 
 ## Testing
 1. Website Navigation:
-    1. Go to the "Introduction" page
-    2. Click "Education & Works" button.
-    3. Go to "Education & Works" page.
-    4. Click "Personal Works" button.
-    5. Go to "Personal Works" page.
+    1. Go to the Homepage
+    2. Click "Bus Arrival" button.
+    3. Go to bus arrival timings page to check bus timings for specified bus stop.
+    4. Click "Weather" button.
+    5. Go to weather page to check weather description and temperature.
 
 - Realised that I didn't cater to when the browser has bookmarks tab open. Issue fixed, I hope. Font size looks really small on a phone screen but if I make it bigger it seems to be very badly arranged. 
 
@@ -55,12 +57,11 @@ Wireframe Link:
 - No copied texts.
 
 ### Media
-- A photo used in this site was obtained from [animess on weheartit](https://weheartit.com/entry/163728038)
-- The background used in this site was obtained from [Coolhue on Github](https://webkul.github.io/coolhue/)
-- A photo used in this site was obtained from [creazilla](https://creazilla.com/nodes/64310-low-poly-man-3d-model)
-- A photo used in this site was obtained from [Wiikipedia Commons](https://commons.wikimedia.org/wiki/File:3D_model_of_Excalibur_Morgan_(Fate_stay_night)_2019-11-12.png)
-- A photo used in this site was obtained from [WALLPAPERUP](https://www.wallpaperup.com/1048473/Sword_Art_Online_(62).html)
-- A photo used in this site was obtained from [Me Pixels](https://www.mepixels.com/photo/anime-gamer-girl-793)
+- A photo used in this site was obtained from [WEBSITE](URL)
 ### Acknowledgements
 
-- I received inspiration for this project from myself.
+- Myself
+- My Mom for encouraging me to not give up
+- My sister for giving me criticism
+- My friends for helping me
+- Ms Dai for giving tips

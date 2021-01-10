@@ -79,7 +79,6 @@
 
 //Weather Section
 var weather = document.querySelector('.load');
-var name = document.querySelector('.name');
 var desc = document.querySelector('.desc');
 var temp = document.querySelector('.temp');
 
@@ -87,16 +86,14 @@ weather.addEventListener('click',function(){
   fetch('https://api.openweathermap.org/data/2.5/weather?q=Singapore,sg&appid=228e17b1d67eda87fcbe05ade9e1245d')
   .then(response => response.json())
   .then(data => {
-    var nameValue = data['name'];
     var tempValue = data['main']['temp'];
     var descValue = data['weather'][0]['description'];
 
-    name.innerHTML = nameValue;
     temp.innerHTML = 'Temperature: ' + Math.round(((tempValue -273.15)*100)/100) + '°C';
     desc.innerHTML = 'Description: ' + descValue;
   })
 
-.catch(err => alert("Wrong City Name!"))
-})
+.catch(err => alert("Wrong City Name!"));
+});
 
 
