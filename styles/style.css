@@ -109,6 +109,7 @@ table {
     font-size: 30px;
 }
 /*END WEATHER PAGE*/
+/*CONST STYLES*/
 .navbar {
     list-style-type: none;
     margin: 0;
@@ -161,3 +162,4 @@ table {
     text-align: center;
     padding: 20px;
  }
+ /*END CONST STYLES*/
