@@ -1,13 +1,10 @@
 # Bus Timing App (SGOutside)
-
 This is a bus timing and weather **MOBILE** web application made for the general use of the public.
 - [GitHub URL](https://sharkir03.github.io/IDAssignment-2/)
 ## Design Process
-
 Website is made for general public.
 Wireframe Link:
 - [Adobe XD Share URL](https://xd.adobe.com/view/09ff4621-c522-454e-bd5c-243e72e13ced-5cac/)
-
 ## Features
 - **Homepage** - Select which feature to use
 - **Bus Arrival Timings** - Check arrival of buses of the specified bus stop
@@ -54,13 +51,15 @@ Wireframe Link:
 - OpenWeatherMap
 - Datamall
 - Mr Malcolm Yam
+- W3Schools
 ### Content
-- **Bus Arrival Content** copied from Mr Malcolm Yam from [repl.it](https://repl.it/@malcolmyam/simple-lta#)
-- **Weather Content** slightly copied from Shinjai Raj on [Youtube](https://www.youtube.com/c/ShanjaiRaj)
+- **Bus Arrival Code** copied from Mr Malcolm Yam from [repl.it](https://repl.it/@malcolmyam/simple-lta#)
+- **Weather Code** slightly copied from Shinjai Raj on [Youtube](https://www.youtube.com/c/ShanjaiRaj)
+- **Some CSS** slightly copied from [W3Schools](https://www.w3schools.com/)
 
 ### Media
+- Bus Arrival json file from [Datamall API](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport)
 ### Acknowledgements
-
 - Myself
 - My Mom for encouraging me to not give up
 - My sister for giving me criticism

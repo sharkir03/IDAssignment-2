@@ -1,3 +1,4 @@
+  //CODE FROM MR MALCOLM YAM ON REPL.IT
   //[STEP 1] ensure our doc is ready first
   $(document).ready(function () {
     $("#bus-dashboard").hide();
@@ -76,7 +77,9 @@
       
     }
   });//end doc ready
+//END OF CODE FROM MR MALCOLM YAM ON REPL.IT
 
+//CODE FROM SHINJAI RAJ ON YOUTUBE
 //Weather Section
 var weather = document.querySelector('.load');
 var desc = document.querySelector('.desc');
@@ -95,5 +98,6 @@ weather.addEventListener('click',function(){
 
 .catch(err => alert("Wrong City Name!"));
 });
+//END OF CODE FROM SHINJAI RAJ ON YOUTUBE
 
 

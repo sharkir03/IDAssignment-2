@@ -110,6 +110,7 @@ table {
 }
 /*END WEATHER PAGE*/
 /*CONST STYLES*/
+/*Code from W3Schools*/
 .navbar {
     list-style-type: none;
     margin: 0;
@@ -152,6 +153,7 @@ table {
     text-align: center;
     padding: 20px;
  }
+/*End of W3Schools Code*/
  .grfooter {
     position: fixed;
     left: 0;
