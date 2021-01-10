@@ -46,6 +46,7 @@ Wireframe Link:
 - **HTML5 Markup** tested with no errors.
 - **CSS** tested with no errors.
 - **Javascript** tested.
+- **Website** tested on S20+, S10+ and iPhone 11 Pro with minimal errors.
 ## Credits
 - Muhammad Nur Syakir Bin Muzakir
 - Google Fonts
