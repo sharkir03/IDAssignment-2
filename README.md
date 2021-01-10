@@ -53,8 +53,8 @@ Wireframe Link:
 - OpenWeatherMap
 - Datamall
 ### Content
-- **Bus Arrival Content** copied from Mr Malcolm Yam from repl.it [repl.it](https://repl.it/@malcolmyam/simple-lta#)
-- **Weather Content** slightly copied from Shinjai Raj on Youtube [Youtube](https://www.youtube.com/c/ShanjaiRaj)
+- **Bus Arrival Content** copied from Mr Malcolm Yam from [repl.it](https://repl.it/@malcolmyam/simple-lta#)
+- **Weather Content** slightly copied from Shinjai Raj on [Youtube](https://www.youtube.com/c/ShanjaiRaj)
 
 ### Media
 ### Acknowledgements
