@@ -1,15 +1,14 @@
 # Bus Timing App (SGOutside)
 
-This is a bus timing desktop/mobile web application made for the general use of the public.
-- [GitHub URL]()
+This is a bus timing and weather mobile web application made for the general use of the public.
+- [GitHub URL](https://sharkir03.github.io/IDAssignment-2/)
 ## Design Process
 
 Website is made for general public.
 Wireframe Link:
-- [Adobe XD Share URL](https://xd.adobe.com/view/0db824d2-6211-46e1-b163-0dd5f1206b8e-58eb/)
+- [Adobe XD Share URL](https://xd.adobe.com/view/09ff4621-c522-454e-bd5c-243e72e13ced-5cac/)
 
 ## Features
-
 - Homepage - Select which feature to use
 - Bus Arrival Timings - Check arrival of buses of the specified bus stop
 - Weather Check - Check current weather and temperature in real time
@@ -17,24 +16,25 @@ Wireframe Link:
 - Homepage - Select which feature to use
 - Bus Arrival Timings - Check arrival of buses of the specified bus stop
 - Weather Check - Check current weather and temperature in real time
+- Contact Option
+- Navigation Bar
 ### Features Left to Implement
-- Contact Options
-- Universal Navigation Bar
+- Traffic API (optional)
 ## Technologies Used
-
-- [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css)
-    - The project uses **Font Awesome** to create social media buttons.
-- [GoogleFonts](https://fonts.gstatic.com, https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap, https://fonts.gstatic.com, https://fonts.googleapis.com/css2?family=Encode+Sans:wght@500&display=swap)
-    - The project uses **Google Fonts** to create fonts for the header, buttons, and footer.
-- [Adobe Fonts](https://use.typekit.net/xdd7oep.css)
-    - The project uses **Adobe Fonts** to create font for the body.
-- HTML5
-- CSS
-- JAVASCRIPT
-- JQUERY
-- BUS ARRIVAL DATAMALL API
-- OPENWEATHERMAP API
-
+- [GoogleFonts](https://fonts.google.com/)
+    - The project uses **Google Fonts** to create all the fonts.
+- [HTML5]
+    - The project uses **HTML5** to create HTML Markup.
+- [CSS]
+    - The project uses **CSS** to create CSS styling.
+- [Javascript]
+    - The project uses **Javascript** to create interactivity.
+- [jQuery](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js)
+    - The project uses **jQuery** to simplify javascript.
+- [Datamall API](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport)
+    - The project uses **Datamall** to collect bus arrival timings.
+- [OpenWeatherMap API](https://openweathermap.org/)
+    - The project uses **OpenWeatherMap** to collect weather data.
 ## Testing
 1. Website Navigation:
     1. Go to the Homepage
@@ -43,21 +43,20 @@ Wireframe Link:
     4. Click "Weather" button.
     5. Go to weather page to check weather description and temperature.
 
-- Realised that I didn't cater to when the browser has bookmarks tab open. Issue fixed, I hope. Font size looks really small on a phone screen but if I make it bigger it seems to be very badly arranged. 
-
-- I have not discovered any bugs so far. Unless I missed them, because I don't really know how to spot any.
+- HTML5 Markup tested with no errors.
+- CSS tested with no errors.
+- Javascript tested.
 ## Credits
 - Muhammad Nur Syakir Bin Muzakir
-- Wikipedia
-- animess
-- creazilla
-- WALLPAPERUP
-- Me Pixels
+- Google Fonts
+- Shinjai Raj from Youtube
+- OpenWeatherMap
+- Datamall
 ### Content
-- No copied texts.
+- Bus Arrival Content copied from Mr Malcolm Yam from repl.it (https://repl.it/@malcolmyam/simple-lta#)
+- Weather Content slightly copied from Shinjai Raj on Youtube (https://www.youtube.com/c/ShanjaiRaj)
 
 ### Media
-- A photo used in this site was obtained from [WEBSITE](URL)
 ### Acknowledgements
 
 - Myself
