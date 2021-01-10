@@ -52,6 +52,7 @@ Wireframe Link:
 - Shinjai Raj from Youtube
 - OpenWeatherMap
 - Datamall
+- Mr Malcolm Yam
 ### Content
 - **Bus Arrival Content** copied from Mr Malcolm Yam from [repl.it](https://repl.it/@malcolmyam/simple-lta#)
 - **Weather Content** slightly copied from Shinjai Raj on [Youtube](https://www.youtube.com/c/ShanjaiRaj)
