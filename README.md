@@ -9,9 +9,9 @@ Wireframe Link:
 - [Adobe XD Share URL](https://xd.adobe.com/view/09ff4621-c522-454e-bd5c-243e72e13ced-5cac/)
 
 ## Features
-- Homepage - Select which feature to use
-- Bus Arrival Timings - Check arrival of buses of the specified bus stop
-- Weather Check - Check current weather and temperature in real time
+- **Homepage** - Select which feature to use
+- **Bus Arrival Timings** - Check arrival of buses of the specified bus stop
+- **Weather Check** - Check current weather and temperature in real time
 ### Existing Features
 - Homepage - Select which feature to use
 - Bus Arrival Timings - Check arrival of buses of the specified bus stop
@@ -43,9 +43,9 @@ Wireframe Link:
     4. Click "Weather" button.
     5. Go to weather page to check weather description and temperature.
 
-- HTML5 Markup tested with no errors.
-- CSS tested with no errors.
-- Javascript tested.
+- **HTML5 Markup** tested with no errors.
+- **CSS** tested with no errors.
+- **Javascript** tested.
 ## Credits
 - Muhammad Nur Syakir Bin Muzakir
 - Google Fonts
@@ -53,8 +53,8 @@ Wireframe Link:
 - OpenWeatherMap
 - Datamall
 ### Content
-- Bus Arrival Content copied from Mr Malcolm Yam from repl.it (https://repl.it/@malcolmyam/simple-lta#)
-- Weather Content slightly copied from Shinjai Raj on Youtube (https://www.youtube.com/c/ShanjaiRaj)
+- **Bus Arrival Content** copied from Mr Malcolm Yam from repl.it [repl.it](https://repl.it/@malcolmyam/simple-lta#)
+- **Weather Content** slightly copied from Shinjai Raj on Youtube [Youtube](https://www.youtube.com/c/ShanjaiRaj)
 
 ### Media
 ### Acknowledgements
