@@ -1,6 +1,6 @@
 # Bus Timing App (SGOutside)
 
-This is a bus timing and weather mobile web application made for the general use of the public.
+This is a bus timing and weather **MOBILE** web application made for the general use of the public.
 - [GitHub URL](https://sharkir03.github.io/IDAssignment-2/)
 ## Design Process
 
