@@ -1,5 +1,5 @@
 /*HOMEPAGE*/
-/*Background of 1st Page*/
+/*Background*/
 .pg1h {
     background-color: rgb(255, 80, 80);
 }
@@ -44,19 +44,23 @@
 /*END HOMEPAGE*/
 
 /*BUS TIMING PAGE*/
+/*Background*/
 .pg2h {
     background-color: rgb(255, 80, 80);
 }
+/*Body*/
 .pg2b{
     text-align: center;
     background-color: lightgreen;
     padding-top: 50px;
     font-family: 'Catamaran', sans-serif;
 }
+/*Table*/
 table {
     font-size: 10px;
     font-family: 'Catamaran', sans-serif;
 }
+/*Button*/
 .submit {
     border: none;
     padding: 5px 20px; 
@@ -74,16 +78,17 @@ table {
 /*END BUS TIMING PAGE*/
 
 /*WEATHER PAGE*/
+/*Body*/
 .pg3b {
     background-color:lightgreen;
     font-family: 'Catamaran', sans-serif;
 }
-
+/*Load Button*/
 .input{
     text-align: center;
     margin: 100px 0;
 }
-
+/*Page title*/
 .title {
     display: flex;
     background-color: rgb(255, 80, 80);
@@ -92,7 +97,7 @@ table {
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
 }
-
+/*Load Button Styling*/
 .load {
     height: 50px;
     width: 80px;
@@ -103,7 +108,7 @@ table {
     border: none;
     border-radius: 2px;
 }
-
+/*Display of Weather*/
 .display {
     text-align: center;
     font-size: 30px;
@@ -153,7 +158,6 @@ table {
     text-align: center;
     padding: 20px;
  }
-/*End of W3Schools Code*/
  .grfooter {
     position: fixed;
     left: 0;
@@ -164,4 +168,5 @@ table {
     text-align: center;
     padding: 20px;
  }
+ /*End of W3Schools Code*/
  /*END CONST STYLES*/
